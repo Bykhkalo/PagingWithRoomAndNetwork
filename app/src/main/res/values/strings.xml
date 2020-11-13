@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PagingWithRoomExample</string>
+    <string name="retry">retry</string>
+    <string name="user_avatar_description">user avatar</string>
+</resources>
